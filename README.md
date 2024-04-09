@@ -1,5 +1,8 @@
 # Dashboard_PBI
 Dashboard em Power BI - Demandas Internas
+
+
+
 Criação de um Dashboard Dinâmico para acomapanhamento do do time;
 Principaias Indicadores:
 - Quantidade de demandas;
